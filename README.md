@@ -3,6 +3,7 @@ Convolutional neural network which detects happy or sad emoji-like faces.
 
 
 Images in dataset look like this:
+
 ![image](https://github.com/HelenLit/happy-sad-face_CNN/assets/108334668/c932f6cc-6388-47f2-89a1-1d5daa5e3473)
 ![image](https://github.com/HelenLit/happy-sad-face_CNN/assets/108334668/de6920d8-52f3-4eba-9629-7dcc17cc49af)
 
